@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **I'm Erfan Ghaziasgar, a Junior Programmer from Iran.**
 
-**I'm a Computer Engineering master's student at the University of Isfahan.**
+**I'm a AI master's student at the University of Isfahan.**
 
 - 🔭 I'm currently working on Python, Django, and Machine Learning projects.
 - 🌱 I'm learning and growing my skillset in Machine Learning, Data Science, and Artificial Intelligence.
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 #### Languages and Tools:
 
 ```python
-programming_languages = ['Python', 'Matlab', 'Php']
-frameworks = ['Django']
-databases = ['MySQL']
+programming_languages = ['Python', 'Matlab', 'Php', 'C']
+frameworks = ['PyTorch']
+databases = ['MySQL', 'MongoDB']
 ```
 
 #### GitHub Stats:
